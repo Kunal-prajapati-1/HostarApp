@@ -9,7 +9,7 @@ const SideNav = () => {
   return (
     <div className='h-screen w-[17%]  bg-[#1F1E24] p-4 pl-[1.5vw]'>
         <Link to='/' className="logo flex items-center ">
-           <img className='h-[3.2vw] ' src="public\logo.svg" alt="logo" />
+           <img className='h-[3.2vw] ' src="/logo.svg" alt="logo" />
         </Link>
         <div className="tagContainer mt-6">
             <div className="title text-[1.6vw] text-zinc-300 font-bold">
