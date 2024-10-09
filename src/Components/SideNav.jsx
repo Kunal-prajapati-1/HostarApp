@@ -25,7 +25,7 @@ const SideNav = () => {
                 <Link to="/tvShows" className='text-[1.2vw] hover:text-white duration-500 capitalize text-zinc-400 font-semibold flex items-center gap-[.5vw]'>
                 <i className="ri-tv-2-fill"></i> tv shows</Link>
                 <Link to="/Person" className='text-[1.2vw] hover:text-white duration-500 capitalize text-zinc-400 font-semibold flex items-center gap-[.5vw]'>
-                <i className="ri-team-fill"></i> peoples</Link>
+                <i className="ri-team-fill"></i> people</Link>
                
             </div>
         </div>
