@@ -53,7 +53,7 @@ const Peoples = () => {
                 className="text-[1.3vw] text-slate-400 cursor-pointer ri-arrow-left-line"
               ></i>
               <h2 className="text-[1.3vw]  text-zinc-400 font-semibold cursor-pointer uppercase">
-                Peoples
+                People
               </h2>
             </div>
           </div>
